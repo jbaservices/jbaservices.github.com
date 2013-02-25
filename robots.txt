@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /*
+Disallow: /*.html
+Disallow: /*.xml
+Disallow: /*.css
+Disallow: /*.txt
+Disallow: /*.cfg
+Disallow: /figures
+Disallow: /images
